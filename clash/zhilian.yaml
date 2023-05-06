@@ -7,3 +7,4 @@ payload:
   - DOMAIN-SUFFIX,huguotao.com
   - DOMAIN-SUFFIX,hiqz.net
   - DOMAIN-SUFFIX,xn--4gq62f52gdss.com
+  - IP-CIDR,129.154.208.88/32
