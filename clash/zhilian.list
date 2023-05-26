@@ -6,5 +6,5 @@ payload:
   - DOMAIN-SUFFIX,ax1x.com
   - DOMAIN-SUFFIX,huguotao.com
   - DOMAIN-SUFFIX,hiqz.net
-  - DOMAIN-SUFFIX,xn--4gq62f52gdss.com
   - IP-CIDR,129.154.208.88/32
+  - IP-CIDR,168.138.213.131/32
