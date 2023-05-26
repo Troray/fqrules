@@ -1,10 +1,9 @@
-payload:
-  # > zhilian
-  - DOMAIN-SUFFIX,freeok.vip
-  - DOMAIN-SUFFIX,cupfox.app
-  - DOMAIN-SUFFIX,nn.ci
-  - DOMAIN-SUFFIX,ax1x.com
-  - DOMAIN-SUFFIX,huguotao.com
-  - DOMAIN-SUFFIX,hiqz.net
-  - IP-CIDR,129.154.208.88/32
-  - IP-CIDR,168.138.213.131/32
+# 自定直连
+- DOMAIN-SUFFIX,freeok.vip
+- DOMAIN-SUFFIX,cupfox.app
+- DOMAIN-SUFFIX,nn.ci
+- DOMAIN-SUFFIX,ax1x.com
+- DOMAIN-SUFFIX,huguotao.com
+- DOMAIN-SUFFIX,hiqz.net
+- IP-CIDR,129.154.208.88/32,no-resolve
+- IP-CIDR,168.138.213.131/32,no-resolve
