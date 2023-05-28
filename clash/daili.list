@@ -1,16 +1,17 @@
- payload:
-  # > daili
-  - DOMAIN-SUFFIX,jsdelivr.net
-  - DOMAIN-SUFFIX,pornlulu.com
-  - DOMAIN-SUFFIX,netflav.com
-  - DOMAIN-SUFFIX,chirmyram.com
-  - DOMAIN-SUFFIX,chirmyram.top
-  - DOMAIN-SUFFIX,akamai-content-network.com
-  - DOMAIN-SUFFIX,dmm.co.jp
-  - DOMAIN-SUFFIX,meizitu.me
-  - DOMAIN-SUFFIX,mrmad.com.tw
-  - DOMAIN-SUFFIX,xchina.co
-  - DOMAIN-SUFFIX,yandex.com
-  - DOMAIN-SUFFIX,yandex.net
-  - DOMAIN-SUFFIX,yastatic.net
-  - DOMAIN-SUFFIX,naydex.net
+# 自定义代理规则
+
+# new bing ai
+DOMAIN-SUFFIX,msxiaobing.com
+DOMAIN-SUFFIX,bing.com
+DOMAIN-SUFFIX,bing123.com
+DOMAIN-SUFFIX,bing135.com
+DOMAIN-SUFFIX,bing4.com
+DOMAIN-SUFFIX,bing.com.bo
+DOMAIN-SUFFIX,bing.com.co
+DOMAIN-SUFFIX,bing.com.cy
+DOMAIN-SUFFIX,bing.com.gt
+DOMAIN-SUFFIX,bing.jp
+DOMAIN-SUFFIX,bing.cn
+DOMAIN-SUFFIX,bing.net
+DOMAIN-SUFFIX,bingapis.com
+DOMAIN-SUFFIX,bingforbusiness.com
