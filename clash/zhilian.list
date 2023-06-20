@@ -5,6 +5,9 @@ DOMAIN-SUFFIX,nn.ci
 DOMAIN-SUFFIX,ax1x.com
 DOMAIN-SUFFIX,huguotao.com
 DOMAIN-SUFFIX,hiqz.net
+DOMAIN-SUFFIX,amazonaws.com
+DOMAIN-SUFFIX,notion.so
+DOMAIN-SUFFIX,notion.site
 
 # 自定义IP
 IP-CIDR,129.146.102.194/8,no-resolve
