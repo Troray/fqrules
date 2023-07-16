@@ -10,6 +10,8 @@ DOMAIN-SUFFIX,notion.so
 DOMAIN-SUFFIX,notion.site
 DOMAIN-SUFFIX,goorm.io
 DOMAIN-SUFFIX,akamai-content-network.com
+DOMAIN-KEYWORD,123866
+DOMAIN-KEYWORD,123867
 
 # 自定义IP
 IP-CIDR,129.146.102.194/8,no-resolve
